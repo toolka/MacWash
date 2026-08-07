@@ -4,6 +4,9 @@
 # Internal planning docs (maintainer only — never push)
 ROADMAP.md
 DEVGUIDE.md
+
+# MacWash App (paid app — private, separate project)
+../MacWash App/
 .AppleDouble
 .LSOverride
 
